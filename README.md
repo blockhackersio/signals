@@ -25,4 +25,4 @@
 - [x] `createSignal`
 - [x] `createEffect`
 - [x] `createMemo`
-- [ ] `createResource
+- [x] `createResource`
