@@ -1,0 +1,13 @@
+{
+  "name": "reactivity",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "dependencies": {
+    "typescript": "^5.2.2",
+    "vitest": "^0.34.6"
+  }
+}
+
