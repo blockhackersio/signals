@@ -21,7 +21,7 @@
 - Use a custom "Signals" based approach
 - Combine SolidJS API with Tanstack's Adaptors
 
-# How it works
+# How "Signals" work
 
 ![Diagram](assets/Signals.drawio.svg)
 
