@@ -21,6 +21,10 @@
 - Use a custom "Signals" based approach
 - Combine SolidJS API with Tanstack's Adaptors
 
+# How it works
+
+![Diagram](Signals.drawio.svg)
+
 # Today Goals
 
 - [x] `createSignal`
