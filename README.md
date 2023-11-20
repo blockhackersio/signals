@@ -23,7 +23,7 @@
 
 # How it works
 
-![Diagram](Signals.drawio.svg)
+![Diagram](assets/Signals.drawio.svg)
 
 # Today Goals
 
