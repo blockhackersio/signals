@@ -24,10 +24,3 @@
 # How "Signals" work
 
 ![Diagram](assets/Signals.drawio.svg)
-
-# Today Goals
-
-- [x] `createSignal`
-- [x] `createEffect`
-- [x] `createMemo`
-- [x] `createResource`
